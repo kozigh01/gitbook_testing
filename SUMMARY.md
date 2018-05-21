@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Testing](README.md)
 * [Cypress](cypress.md)
 
